@@ -19,7 +19,7 @@ Specifically, the app consists of the following endpoints:
 ```
 If no vehicle exists with that identifier, create it.
 
-- An HTML endpoint named /show that shows the vehicles' most recent coordinate in a map (choose any map provider you want, such as Google Maps, Open Street Map, Bing Maps, Mapbox, etc.).
+- An HTML endpoint named /show that shows for all vehicles their **most recent coordinate** in a map (choose any map provider you want, such as Google Maps, Open Street Map, Bing Maps, Mapbox, etc.).
 
 # Things to consider
 1. All historical waypoints must be stored.
