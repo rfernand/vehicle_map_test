@@ -25,6 +25,7 @@ If no vehicle exists with that identifier, create it.
 1. All historical waypoints must be stored.
 2. No authentication is required for the endpoints.
 3. Waypoints received through the API must be processed in a background job processing framework.
+4. Display (position and name) and filter vehicles on the map using React as a frontend library.
 
 
 # Recommended configuration
